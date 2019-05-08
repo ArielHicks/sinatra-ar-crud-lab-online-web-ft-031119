@@ -35,5 +35,7 @@ class ApplicationController < Sinatra::Base
     erb :show
   end
 
-  
+  #edit
+
+
 end
