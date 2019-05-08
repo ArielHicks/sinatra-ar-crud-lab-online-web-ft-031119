@@ -19,6 +19,6 @@ class ApplicationController < Sinatra::Base
   end
 
   # new
-  get
+  get ''
 
 end
