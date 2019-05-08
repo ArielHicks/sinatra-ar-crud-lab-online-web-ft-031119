@@ -18,6 +18,6 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
 
-  get 
+  get
 
 end
