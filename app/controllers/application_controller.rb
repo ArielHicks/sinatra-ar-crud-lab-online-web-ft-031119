@@ -21,5 +21,6 @@ class ApplicationController < Sinatra::Base
   # new
   get '/articles/new' do
     @article = Article.new
+    erb :new
 
 end
