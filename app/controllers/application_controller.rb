@@ -34,3 +34,4 @@ class ApplicationController < Sinatra::Base
     @article = Article.find(params[:id])
     erb :show
   end
+end
