@@ -36,7 +36,7 @@ class ApplicationController < Sinatra::Base
   end
 
   #edit
-  get '/articles/:id/edit' do 
+  get '/articles/:id/edit' do
 
   end
 
